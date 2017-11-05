@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>PatchOperationModCompatabilityCheck mod - Source</name>
+	<author>Zeratul</author>
+	<url></url>
+	<targetVersion>0.17.1557</targetVersion>
+	<description>This mod contains an assembly for checking mod compatability with a patch operation. The patch operation will check if the mod(s) are present in the load order of active mods. If all mods are present then it will give a success, otherwise it will give a failure. The operation also checks if both the ModName and ModList fields are used. If so then the operation will also give a fail because these fields are mutually exclusive. For an example look at the steam page or the test patch included.
+
+I made this assembly for checking for mod compatability because I found there wasn't one where I could see if the patch succeeded properly and if it failed, which mods it didn't find.
+
+The debug log included a standardized version of the operation as well as which mods were found and which weren't found. At the end there is also the entire list of names it checked agaist for you to look through to see if you didn't mistype something.</description>
+</ModMetaData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="ModCompatCheck.PatchOperationModCompatabilityCheck">
+				<Name>ModCompatCheck Test Patch Single</Name>
+				<Debug>true</Debug>
+				<ModName>Core</ModName>
+			</li>
+			<li Class="ModCompatCheck.PatchOperationModCompatabilityCheck">
+				<Name>ModCompatCheck Test Patch List</Name>
+				<Debug>true</Debug>
+				<ModList>
+					<li>Core</li>
+					<li>Core</li>
+				</ModList>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

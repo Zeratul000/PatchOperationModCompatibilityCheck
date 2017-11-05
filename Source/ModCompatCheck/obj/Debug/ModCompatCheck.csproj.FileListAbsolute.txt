@@ -1,0 +1,3 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ModCompatCheck - Source\Assemblies\ModCompatCheck.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ModCompatCheck - Source\Source\ModCompatCheck\obj\Debug\ModCompatCheck.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ModCompatCheck - Source\Source\ModCompatCheck\obj\Debug\ModCompatCheck.csprojResolveAssemblyReference.cache
